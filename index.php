@@ -1,14 +1,13 @@
-<h1>Bem vindo turma 14A do itaú pele treinamento da Gama </h1>
+<h1>Bem vindo turma 14A do itaú pelo treinamento da Gama </h1>
 
-<h3> Um deploy aotomático feito com alunos do itaú </h3>
+<h3> Um deploy automático feito com alunos do itaú </h3>
 
-<h5>Tentar sempre, desistir jamais!!!</h5>
-  
-<h5>testando!!!</h5>
-<h5>Tentar sempre, desistir as vezes!!!</h5>
-<h5>QUERO DELETAR TUDO </h5>
+<div style="display:flex">
+  <div style="width:200px;height:200px;background:yellow;color:blue;padding:20px;margin:10px">
+      <b>Amarelo</b>
+  </div>
 
-
-<div style="width:200px;height:200px;background:yellow">
-    Um teste em um quadrado
+  <div style="width:200px;height:200px;background:blue;color:yellow;padding:20px;margin:10px">
+      <b>Azul</b>
+  </div>
 </div>
